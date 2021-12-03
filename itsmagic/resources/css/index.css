@@ -1,0 +1,35 @@
+#magician{
+    height: 350px;
+    margin-top: 20px;
+    border: solid 2px;
+    border-color: goldenrod;
+}
+
+.navbar {
+    
+    text-align: center;
+
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 30px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: purple
+}
+
+
+.title{
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.banner{
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
